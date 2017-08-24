@@ -1,2 +1,6 @@
-# angular2-autocomplete
-Angular2 autocomplete inspired by Materializecss
+# Angular2 Autocomplete
+
+## Inspired by Materializecss
+
+
+### autocomplete input css credits to [Materializecss](http://materializecss.com)
